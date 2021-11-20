@@ -8,10 +8,20 @@ const aboutMe = {
   techSkills : {
       code : ["JavaScript","Typescript","HTML","CSS","Java","C#","Python","Sequelize","SQL"],
       tools : ["React","Redux","NodeJs","PostgreSql","Jest"],
+      other : ["UML","Scrum"]
   },
-  other : ["UML","Scrum"]
+  
 }
 ```
 ---
-###Algunos de mis proyectos
-Sitio en construcción (actualizando)
+### Mi último proyecto 🏗️
+### Proyecto individual: Food Api
+### Se trata de una SPA (Single Page Application), que accede a una API (https://spoonacular.com/), filtra, ordena y permite crear nuevas recetas. Desarrollo de backend y frontend. Tecnologías: ReactJs, Redux, NodeJs, Sequelize, PostgreSql.
+
+---
+### Contacto:
+### mail: nalbera@hotmail.com
+### LinkedIn: https://www.linkedin.com/in/nelson-albera-fullstack/
+
+
+
