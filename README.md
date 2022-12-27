@@ -14,9 +14,12 @@ const aboutMe = {
 }
 ```
 ---
-### Mi último proyecto 🏗️
+### Proyectos 🏗️
 ### Proyecto individual: Food Api
-### Se trata de una SPA (Single Page Application), que accede a una API (https://spoonacular.com/), filtra, ordena y permite crear nuevas recetas. Desarrollo de backend y frontend. Tecnologías: ReactJs, Redux, NodeJs, Sequelize, PostgreSql.
+### Se trata de una SPA (Single Page Application), que accede a una API (https://spoonacular.com/), filtra, ordena y permite crear nuevas recetas. Desarrollo de backend y frontend. Tecnologías: ReactJs, Redux, NodeJs, Sequelize, PostgreSql. (https://github.com/nalbera/PI-Food-Nelson-Albera)
+
+### Proyecto grupal: Gimme a Ride (Subi Que Te Llevo)
+### Se trata de una SPA (Single Page Application), que conecta a usuarios que viajan a un mismo destino y poder compartir gastos. Desarrollada en React-Redux, NodeJs, Express, PostgreSQL,. Implementa: Mercado pago, Cloudinary, NodeMailer, MapBox y Auth0. https://gimmearide.vercel.app/. Repo: (https://github.com/nalbera/PG-Subi)
 
 ---
 ### Contacto:
