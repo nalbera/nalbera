@@ -21,6 +21,9 @@ const aboutMe = {
 ### Proyecto grupal: Gimme a Ride (Subi Que Te Llevo)
 ### Se trata de una SPA (Single Page Application), que conecta a usuarios que viajan a un mismo destino y poder compartir gastos. Desarrollada en React-Redux, NodeJs, Express, PostgreSQL,. Implementa: Mercado pago, Cloudinary, NodeMailer, MapBox y Auth0. https://gimmearide.vercel.app/. Repo: (https://github.com/nalbera/PG-Subi)
 
+### Proyecto backend: Diario de viajes.
+La idea es crear una aplicación en donde los usuarios puedean registrarse y publicar entradas sobre viajes realizados.
+Repo: https://github.com/nalbera/travel-diary
 ---
 ### Contacto:
 ### mail: nalbera@hotmail.com
