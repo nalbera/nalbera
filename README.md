@@ -24,6 +24,10 @@ const aboutMe = {
 ### Proyecto backend: Diario de viajes.
 La idea es crear una aplicación en donde los usuarios puedean registrarse y publicar entradas sobre viajes realizados.
 Repo: https://github.com/nalbera/travel-diary
+
+### Proyecto fullstack: Challenge FullStack Alkemy.
+Desarrollo de una aplicación para administración de presupuesto personal.
+Repo: https://github.com/nalbera/desafio_fullstack_alkemy
 ---
 ### Contacto:
 ### mail: nalbera@hotmail.com
