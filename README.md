@@ -14,22 +14,22 @@ const aboutMe = {
 }
 ```
 ---
-### Proyectos 🏗️
+## Proyectos 🏗️
 ### Proyecto individual: Food Api
-### Se trata de una SPA (Single Page Application), que accede a una API (https://spoonacular.com/), filtra, ordena y permite crear nuevas recetas. Desarrollo de backend y frontend. Tecnologías: ReactJs, Redux, NodeJs, Sequelize, PostgreSql. (https://github.com/nalbera/PI-Food-Nelson-Albera)
+Se trata de una SPA (Single Page Application), que accede a una API (https://spoonacular.com/), filtra, ordena y permite crear nuevas recetas. Desarrollo de backend y frontend. Tecnologías: ReactJs, Redux, NodeJs, Sequelize, PostgreSql. (https://github.com/nalbera/PI-Food-Nelson-Albera)
 
 ### Proyecto grupal: Gimme a Ride (Subi Que Te Llevo)
-### Se trata de una SPA (Single Page Application), que conecta a usuarios que viajan a un mismo destino y poder compartir gastos. Desarrollada en React-Redux, NodeJs, Express, PostgreSQL,. Implementa: Mercado pago, Cloudinary, NodeMailer, MapBox y Auth0. https://gimmearide.vercel.app/. Repo: (https://github.com/nalbera/PG-Subi)
+Se trata de una SPA (Single Page Application), que conecta a usuarios que viajan a un mismo destino y poder compartir gastos. Desarrollada en React-Redux, NodeJs, Express, PostgreSQL,. Implementa: Mercado pago, Cloudinary, NodeMailer, MapBox y Auth0. https://gimmearide.vercel.app/. Repo: (https://github.com/nalbera/PG-Subi)
 
 ### Proyecto backend: Diario de viajes.
-La idea es crear una aplicación en donde los usuarios puedean registrarse y publicar entradas sobre viajes realizados.
+La idea es crear una aplicación en donde los usuarios puedean registrarse y publicar entradas sobre viajes realizados.<br>
 Repo: https://github.com/nalbera/travel-diary
 
-### Proyecto fullstack: Challenge FullStack Alkemy.
-Desarrollo de una aplicación para administración de presupuesto personal.
-Repo: https://github.com/nalbera/desafio_fullstack_alkemy
+### Proyecto fullstack: Challenge FullStack Alkemy.<br>
+#### Desarrollo de una aplicación para administración de presupuesto personal.<br>
+#### Repo: https://github.com/nalbera/desafio_fullstack_alkemy
 ---
-### Contacto:
+## Contacto:
 ### mail: nalbera@hotmail.com
 ### LinkedIn: https://www.linkedin.com/in/nelson-albera-fullstack/
 
