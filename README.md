@@ -4,10 +4,9 @@
 ```js
 const aboutMe = {
   about : ["Trabajo en equipo","Proactivo","Autodidacta"],
-  status : "Con muchas ganas de más conocimientos",
   techSkills : {
-      code : ["JavaScript","Typescript","HTML","CSS","Java","C#","Python","Sequelize","SQL"],
-      tools : ["React","Redux","NodeJs","PostgreSql","Jest"],
+      code : ["JavaScript","Typescript","HTML","CSS","Java","C#","Python","SQL", "PostgreSql"],
+      tools : ["React","Redux","NextJs","NodeJs","Express","NestJs","Sequelize","TypeORM", "Postman","Swagger"],
       other : ["UML","Scrum"]
   },
   
