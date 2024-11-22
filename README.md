@@ -27,7 +27,11 @@ Repo: https://github.com/nalbera/travel-diary
 ### Proyecto fullstack: Challenge FullStack Alkemy.<br>
 #### Desarrollo de una aplicación para administración de presupuesto personal.<br>
 #### Repo: https://github.com/nalbera/desafio_fullstack_alkemy
+
+### Proyecto backend: Ecommerce.
+#### Repo: https://github.com/nalbera/ecommerce-api-service
 ---
+
 ## Contacto:
 ### mail: nalbera@hotmail.com
 ### LinkedIn: https://www.linkedin.com/in/nelson-albera-fullstack/
