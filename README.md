@@ -34,11 +34,11 @@ Repo: https://github.com/nalbera/travel-diary
 ### Proyecto fullstack: Ecommerce.
 Este es un proyecto personal de práctica construido con Next.js.
 Los datos son obtenidos de una API propia dentro del mismo repositorio
-Tecnologías: NextJs, Epress, TypeScript y Postgresql
-Repo: https://github.com/nalbera/nextjs-practice
+Tecnologías: NextJs, Epress, TypeScript y Postgresql<br>
+#### Repo: https://github.com/nalbera/nextjs-practice
 
 ### Proyecto backend: Movies (MongoDb, Mongoose).
-Repo: https://github.com/nalbera/movies-api-service
+#### Repo: https://github.com/nalbera/movies-api-service
 ---
 
 ## Contacto:
